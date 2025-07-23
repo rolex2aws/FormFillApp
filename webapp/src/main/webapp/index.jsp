@@ -5,6 +5,11 @@
     <hr>
     <br>
 
+    <label for="AdhaarNumber"><b><AdhaarNumber/b></label>
+    <input type="text" placeholder="Enter "AdhaarNumber name=""AdhaarNumber id=""AdhaarNumber required>
+    <br>
+
+
     <label for="PhoneNumber"><b>PhoneNumber</b></label>
     <input type="text" placeholder="Enter PhoneNumber" name="Phone" id="Phone" required>
     <br>
