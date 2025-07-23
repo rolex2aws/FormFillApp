@@ -6,7 +6,7 @@
     <br>
 
     <label for="AdhaarNumber"><b><AdhaarNumber/b></label>
-    <input type="text" placeholder="Enter "AdhaarNumber name=""AdhaarNumber id=""AdhaarNumber required>
+    <input type="text" placeholder="Enter AdhaarNumber" name="AdhaarNumber" id="AdhaarNumber" required>
     <br>
 
 
