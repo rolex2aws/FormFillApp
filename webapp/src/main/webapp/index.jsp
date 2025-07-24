@@ -8,6 +8,10 @@
     <label for="AdhaarNumber"><b><AdhaarNumber/b></label>
     <input type="text" placeholder="Enter AdhaarNumber" name="AdhaarNumber" id="AdhaarNumber" required>
     <br>
+ 
+    <label for="Address"><b>Address</b></label>
+    <input type="text" placeholder="Enter Address" name="Address" id="Address" required>
+    <br>
 
 
     <label for="PhoneNumber"><b>PhoneNumber</b></label>
