@@ -5,6 +5,11 @@
     <hr>
     <br>
 
+    
+   <label for=VOTERID"><b></VOTERID></label>
+    <input type="text" placeholder="Enter VOTERID" name="VOTERID" id="VOTERID" required>
+    <br>
+
     <label for="PANNumber"><b><PANNumber/b></label>
     <input type="text" placeholder="Enter PANNumber" name="PANNumber" id="PANNumber" required>
     <br>
