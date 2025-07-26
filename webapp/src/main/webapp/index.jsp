@@ -5,6 +5,10 @@
     <hr>
     <br>
 
+    <label for="PANNumber"><b><PANNumber/b></label>
+    <input type="text" placeholder="Enter PANNumber" name="PANNumber" id="PANNumber" required>
+    <br>
+
     <label for="AdhaarNumber"><b><AdhaarNumber/b></label>
     <input type="text" placeholder="Enter AdhaarNumber" name="AdhaarNumber" id="AdhaarNumber" required>
     <br>
