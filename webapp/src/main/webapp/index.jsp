@@ -40,6 +40,9 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
+    <label for="college address"><b>College Address</b></label>
+    <input type="college" placeholder="College Address" name="College" id="college" required>
+    <br>
 
 
     <label for="reset-passwd"><b>Reset Password</b></label>
