@@ -49,6 +49,9 @@
     <input type="password" placeholder="Reset Password" name="psw-reset" id="psw-reset" required>
     <br>
 
+    <p> HAPPY LEARNING AWS-DEVOP COURSE </p>
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
